@@ -1,0 +1,12 @@
+.idea
+stockfish
+__pycache__
+venv
+chrome_profile_v2
+chrome_profile
+chrome_profile_new
+*.log
+*.tmp
+*.jpg
+maia2_models/
+*.pt

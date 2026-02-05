@@ -1,0 +1,19 @@
+{
+    "website": "chesscom",
+    "manual_mode": false,
+    "mouseless_mode": false,
+    "non_stop_puzzles": 0,
+    "non_stop_matches": 1,
+    "bongcloud": 0,
+    "mouse_latency": 0.1,
+    "maia_model": "blitz",
+    "topmost": 1,
+    "language": "ru",
+    "bot_elo": 1500,
+    "opponent_elo": 1500,
+    "accuracy": 100,
+    "force_solid_openings": 1,
+    "speed_bullet": 0.3,
+    "speed_blitz": 0.01,
+    "speed_rapid": 1.0
+}
