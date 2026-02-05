@@ -1,6 +1,6 @@
 # UmbrellaChess
 
-![UmbrellaChess Banner](photo_2026-02-05_18-23-12.jpg)
+<img src="photo_2026-02-05_18-23-12.jpg" width="100%">
 
 ## О проекте
 
